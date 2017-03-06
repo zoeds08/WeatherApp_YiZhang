@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">天气预报</string>
+    <string name="set">设置</string>
+
+    <string name="city">城市:</string>
+    <string name="temp">温度: </string>
+    <string name="date">日期: </string>
+    <string name="des">天气: </string>
+    <string name="windspeed">风力: </string>
+    <string name="humidity">湿度: </string>
+    <string name="pressure">气压: </string>
+
+    <string-array name="forecastWeather_days">
+
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+
+    </string-array>
+
+    <string name="days">预测天数: </string>
+    <string name="requlo">GPS位置</string>
+    <string name="zipcode">请输入邮政编码: </string>
+    <string name="unit">请选择温度单位: </string>
+    <string name="coord">经纬度:</string>
+    <string name="lat">纬度: </string>
+    <string name="lon">经度: </string>
+
+    <string name="on">摄氏</string>
+    <string name="off">华氏</string>
+
+    <string name="g">使用GPS定位:</string>
+
+    <string name="con">确定</string>
+
+    <string name="title">GPS使用权限</string>
+    <string name="message">您是否同意此应用程序使用您的位置?</string>
+
+    <string name="indetitle">加载</string>
+    <string name="indemessage">加载中...请等待...</string>
+
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="cancel">取消</string>
+
+    <string name="gpson">开启GPS</string>
+    <string name="gpstitle">**GPS状态**</string>
+
+    <string name="methodg">GPS定位</string>
+    <string name="methodz">邮政编码定位</string>
+
+    <string name="unitc">摄氏单位</string>
+    <string name="unitf">华氏单位</string>
+
+    <string name="select">已选择</string>
+
+    <string name="ziptitle">警告!!!</string>
+    <string name="zipmessage">邮政编码不可为空!!!</string>
+    <string name="zipclick">您选择了确认</string>
+
+    <string name="noftitle">没有找到位置!</string>
+    <string name="nofmessage">因为 GPS</string>
+
+</resources>

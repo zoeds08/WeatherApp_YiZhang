@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="set">Settings</string>
+
+    <string name="city">City</string>
+    <string name="temp">Temperature: </string>
+    <string name="date">Date: </string>
+    <string name="des">Weather: </string>
+    <string name="windspeed">Wind Speed: </string>
+    <string name="humidity">Humidity: </string>
+    <string name="pressure">Pressure: </string>
+
+    <string-array name="forecastWeather_days">
+
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+
+    </string-array>
+
+    <string name="days">Forecast Days: </string>
+    <string name="requlo">Request Location</string>
+    <string name="zipcode">Enter a Zipcode: </string>
+    <string name="unit">Temperature Unit: </string>
+    <string name="coord">Coordinates:</string>
+    <string name="lat">Lat: </string>
+    <string name="lon">Lon: </string>
+
+    <string name="on">Celsius</string>
+    <string name="off">Fahrenheit</string>
+
+    <string name="g">Use GPS Location:</string>
+
+    <string name="con">Continue</string>
+
+    <string name="title">GPS limits of authority</string>
+    <string name="message">Do you allow the app to use your location?</string>
+
+    <string name="indetitle">Load</string>
+    <string name="indemessage">Loading...Please wait...</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="gpson">GPS ON</string>
+    <string name="gpstitle">**GPS Status**</string>
+    
+    <string name="methodg">Method is GPS</string>
+    <string name="methodz">Method is ZipCode</string>
+
+    <string name="unitc">Unit is Celsius</string>
+    <string name="unitf">Unit is Fahrenheit</string>
+
+    <string name="select">selected</string>
+
+    <string name="ziptitle">Alert!!!</string>
+    <string name="zipmessage">ZipCode should not be empty!!!</string>
+    <string name="zipclick">You clicked yes button</string>
+
+    <string name="noftitle">Location Not Found!</string>
+    <string name="nofmessage">Beacuse GPS</string>
+
+
+</resources>
